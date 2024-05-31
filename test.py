@@ -1,1 +1,1 @@
-print("Hello first commit! and more! and more!")
+print("Hello first commit! and more! and more! Squash")
