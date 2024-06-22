@@ -1,1 +1,1 @@
-print("Hello first commit from feature!")
+print("Hello first commit!")
